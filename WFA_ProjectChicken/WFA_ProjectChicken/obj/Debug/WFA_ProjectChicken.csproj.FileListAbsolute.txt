@@ -1,0 +1,11 @@
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\bin\Debug\WFA_ProjectChicken.exe.config
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\bin\Debug\WFA_ProjectChicken.exe
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\bin\Debug\WFA_ProjectChicken.pdb
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.csprojAssemblyReference.cache
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.FrmMain.resources
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.Properties.Resources.resources
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.csproj.GenerateResource.cache
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.exe
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.pdb
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.FrmTesla.resources
+C:\Users\Tökmindegy\source\repos\WFA_ProjectChicken\WFA_ProjectChicken\obj\Debug\WFA_ProjectChicken.FrmSuccess.resources
